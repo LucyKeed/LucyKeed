@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Lucy 👋
+
+Nice to meet you!
+
+- 🔭 I’m currently working on my coding skills & learning the fundamentals🔤
+- 🌱 I’m currently learning Python 🐍
+- 👯 I’m looking to collaborate on any projects suitable for beginners 👶
+- 🤔 I’m looking for help with learning the fundamentals and recommnedations
+- 📫 How to reach me: lucy.keedwell@hotmail.co.uk
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I have a love for Japan and the culture 🍡🍙🗾🎎🏯
 
 <!--
 **LucyKeed/LucyKeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
